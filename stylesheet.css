@@ -1,0 +1,250 @@
+body{
+    background-color: #F6F6F2;
+}
+.school{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+}
+.school div{
+    padding: 8px;
+}
+
+div.oa{
+font-size:x-large;
+font-weight:800;
+color: #154360;
+}
+div.aa{
+    font-size:medium;
+    font-weight: 500;
+}
+.home{
+        color: white;
+    background-color: #154360;
+    background-position: 0 5px;
+   align-self:center;
+  border-radius: 10px 10px;
+}
+.about{
+   
+    background-position: 0 5px;
+   align-self:center;
+  border-radius: 4px 4px;
+  color: #000;
+}
+.about:hover{
+            color: white;
+    background-color: #154360;
+}
+.aca{
+      background-position: 0 5px;
+   align-self:center;
+  border-radius: 4px 4px;  
+   color: #000;
+}
+.aca:hover{
+           color: white;
+    background-color: #154360;
+}
+.as{
+        background-position: 0 5px;
+   align-self:center;
+  border-radius: 4px 4px;
+   color: #000;
+}
+.cas{
+            background-position: 0 5px;
+   align-self:center;
+  border-radius: 4px 4px;
+   color: #000;
+}
+.con{
+            background-position: 0 5px;
+   align-self:center;
+  border-radius: 4px 4px;
+   color: #000;
+}
+.photo{
+    background-image: url(sec.jpg);
+    background-position: 10px -20px;
+    width: 500px;
+  height: 190px;
+  position: absolute;
+  left: 300px;
+bottom: 440px;
+border-radius: 5px 5px;
+}
+.qw{
+        width: 500px;
+  height: 50px;
+  position: absolute;
+  left: 300px;
+bottom: 390px;
+background-color: #154360;
+color: white;
+font-size: 35px;
+text-align: center;
+
+}
+.last{
+    background-color: white;
+    width: 505px;
+    height: 400px;
+position: absolute;
+  left: 300px;
+bottom: -10px;
+}
+.we #if{
+    background-image: url(images\ \(3\).jpg);
+    background-position: center;
+   width: 200px;
+   height: 130px;
+   border-radius: 10px 10px;
+   
+}
+#if::after{
+    content: "Annual Science Fair Showcases Innovation";
+   
+    font-size: x-large;
+    font-weight: bolder;
+    position: absolute;
+    left: 210px;
+}
+.wer{
+    position: absolute;
+    top: 120px;
+    left: 210px;
+}
+.re #ef{
+        background-image: url(fot.webp);
+    background-position: center;
+   width: 200px;
+   height: 130px;
+   border-radius: 10px 10px;
+}
+#ef::after{
+       content: "Oakridge Owls Soccer Team Takes District Title!";
+   
+    font-size: x-large;
+    font-weight: bolder;
+    position: absolute;
+    left: 210px;
+}
+#erds{
+        position: absolute;
+    top: 265px;
+    left: 210px;
+}
+.up{
+    background-color: white;
+}
+input[type="submit"] {
+    color: white;
+    background-color:#154360;
+    border-radius: 3px 3px;
+}
+.ebb{
+    background-color: rgb(44, 134, 31);
+}
+.you{
+    padding: 5px;
+    background-color:#D8ECEC;
+    border-radius: 15px;
+    align-self: center;
+    width: 240px;
+    height: 44px;
+    position: absolute;
+    left: 820px;
+    top: 100px;
+}
+.quick-links-box {
+    background-color: #D8ECEC;
+    padding: 20px;
+    border-radius: 15px; 
+    font-family: Arial, sans-serif;
+    position: absolute;
+left: 820px;
+top: 170px;
+width: 218px;
+}
+
+.quick-links-box h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #000000;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.quick-links-box ul {
+    list-style-type: disc; 
+    padding-left: 20px;
+    margin: 0;
+}
+
+.quick-links-box ul li {
+    margin-bottom: 8px; 
+}
+
+.quick-links-box ul li a {
+    color: #000000; 
+    text-decoration: none; 
+    font-size: 16px;
+}
+
+.quick-links-box ul li a:hover {
+    text-decoration: underline; }
+    #bus{
+        background-color: #D8ECEC;
+        padding: 20px;
+        background-image: url(bus.jpg);
+        background-position: center;
+        width: 220px;
+        height: 100px;
+        position: absolute;
+        left: 820px;
+        top: 370px;
+        margin-top: 0;
+        margin-bottom: 15px;
+border-radius: 15px;
+    }
+
+.conta {
+       
+   
+    border-radius: 15px;          
+    display: block;                
+    height: auto !important;   
+}
+.id{
+    background-color: #154360;
+    position: absolute;
+    bottom: -220px;
+    width: 100%;
+    color: white;
+    height: 100px;
+padding: 2px;
+}
+p.qas{
+    text-align: center;
+    line-height: 4;
+}
+p.res {
+    position: relative;
+    left: 340px;
+    line-height: 0;
+}
+
+form.contact-form {
+    background-color: #154360;
+    padding: 20px;
+    border-radius: 15px; 
+    width: 300px;
+    position: absolute;
+    left: 820px;
+    top: 500px;
+}
+
